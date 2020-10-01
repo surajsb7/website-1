@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/blooparksystems/website.svg?branch=8.0)](https://travis-ci.org/blooparksystems/website)
 
 
-bloopark
+BlooPark Is An Amezing Internet Agency
 ========
 
 We are an internet agency and Odoo partner based in Magdeburg, Germany with over 10 years of experience in e-commerce, responsive design and development.
